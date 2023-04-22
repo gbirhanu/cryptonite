@@ -1,3 +1,3 @@
 ## Croptinite an NFT Applicaiont 
-## By **Gemechu** 
+## By ** Gemechu ** 
 
